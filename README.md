@@ -22,10 +22,11 @@
 
 ### Infrastructure
 <img src="https://go-skill-icons.vercel.app/api/icons?i=redhat,mysql,render&theme=dark&titles=true" />
+<br>
 
 ##  Activities
 <div align="left"> 
-  <img alt="Top Langs" height="170px" src="https://github-readme-stats.vercel.app/api?username=KennedySilverDollar&theme=vue-dark&layout=compact" /><br>
+  <img alt="Top Langs" height="170px" src="https://github-readme-stats.vercel.app/api?username=KennedySilverDollar&theme=vue-dark&layout=compact" />
 
 
 
