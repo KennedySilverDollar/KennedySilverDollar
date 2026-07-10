@@ -16,16 +16,12 @@
 
 ### Framework
 <img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=15&i=rails" />  
-<br>
 
 ### Tools
 <img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=15&i=clion,idea,rubymine" />   
 
 ### Infrastructure
 <img src="https://go-skill-icons.vercel.app/api/icons?i=redhat,mysql,render&theme=dark&titles=true" />
-
-<br>
-
 
 ##  Activities
 <div align="left"> 
