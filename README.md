@@ -2,6 +2,12 @@
   <img src="https://komarev.com/ghpvc/?username=KennedySilverDollar" alt="Profile Views" />
 </div>
 
+<div align="center">
+  <p align="center">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=KennedySilverDollar&theme=prussian" alt="Most Commit Language" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=KennedySilverDollar&theme=prussian" alt="Repos per Language" />
+  </p>
+
 ## Skills
 
 ### Programming Languages 
@@ -30,11 +36,7 @@
 
 <br />
 
-<div align="center">
-  <p align="center">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=KennedySilverDollar&theme=prussian" alt="Most Commit Language" />
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=KennedySilverDollar&theme=prussian" alt="Repos per Language" />
-  </p>
+
 
   [![trophy](https://github-profile-trophy.vercel.app/?username=KennedySilverDollar&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
