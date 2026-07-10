@@ -26,7 +26,7 @@
 ##  Activities
 <div align="left"> 
   <img alt="Top Langs" height="170px" src="https://github-readme-stats.vercel.app/api?username=KennedySilverDollar&theme=vue-dark&layout=compact" />
-  <br>
+  </br>
 
 
 
