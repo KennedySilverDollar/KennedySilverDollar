@@ -9,7 +9,7 @@
 
 ##  Skills
 ### Programing Languages 
-<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=9&i=c,ruby,python,ts" />   
+<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=9&i=c,cpp,ruby,python,ts, clisp" />   
 
 ### Frontend Development
 <img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=9&i=react,vite" />   
@@ -18,7 +18,7 @@
 <img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=15&i=rails" />  
 
 ### Tools
-<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=15&i=clion,idea,rubymine" />   
+<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=15&i=clion,idea,emacs" />   
 
 ### Infrastructure
 <img src="https://go-skill-icons.vercel.app/api/icons?i=redhat,mysql,render&theme=dark&titles=true" />
